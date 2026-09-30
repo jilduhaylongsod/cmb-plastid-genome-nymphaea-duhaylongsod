@@ -198,12 +198,19 @@ The genome contains 130 annotated genes, including 85 protein-coding genes, 37 t
 | **Common uses** | Species identification and plant phylogeny | Studies of mitochondrial function, inheritance, and plant evolution |
 
 **Similarities**
+
 Both have their own DNA.
+
 Both are located in organelles outside the nucleus.
+
 Both contain genes needed for important cellular functions.
+
 Both occur in multiple copies within cells because cells usually contain multiple organelles.
+
 Both originated from ancient endosymbiotic bacteria.
+
 Both can be used in studies of evolution and phylogeny.
+
 Both can be inherited through the cytoplasm rather than through the nuclear chromosomes.
 
 **10. Explain the practical value of plastid genomes in research. List as many advantages as you can compared with the nuclear genome, including nuclear sex chromosomes where applicable, and also explain important limitations. Give one research question for
@@ -213,33 +220,52 @@ Plastid genomes are useful because they are relatively small, have many conserve
 evolutionary research, and studying relationships between plant species. The N. nouchali study also identified highly variable chloroplast regions that could be useful as molecular markers.
 
 **Advantages of plastid genomes**
+
 They are much smaller than most nuclear genomes.
+
 They contain many conserved genes.
+
 Their structure is generally more conserved.
+
 They are useful for comparing different plant species.
+
 They are useful for studying plant evolutionary relationships.
+
 They can help identify plant species.
+
 They can provide useful molecular markers.
+
 They are easier to analyze than very large nuclear genomes.
+
 They can be useful when studying maternal inheritance in plants.
+
 They do not have nuclear sex chromosomes, so they can be useful for questions that do not require nuclear sex-linked information.
 
 **Limitations**
+
 Plastid DNA represents only a small part of the total genetic information of a plant.
+
 It usually does not show the full variation present in the nuclear genome.
+
 Plastid inheritance is often uniparental, so it may not show both parental histories.
+
 It cannot provide the same information as nuclear chromosomes.
+
 It is not suitable for studying nuclear sex chromosomes.
+
 Some evolutionary relationships may be different when using plastid data compared with nuclear data.
 
 ## Research question where plastid data would be useful
 
 **How are different species of Nymphaea related to each other based on their chloroplast genomes?**
+
 Plastid genomes are useful for this because chloroplast sequences can be compared between species to study their phylogenetic relationships. 
 The N. nouchali study used chloroplast genome information for phylogenetic analysis.
 
 ## Research question where nuclear genomic data would be more appropriate
+
 **How does genetic variation across the entire nuclear genome differ between male and female plants, including variation on nuclear sex chromosomes if the species has them?**
+
 A nuclear genome would be more appropriate because plastid DNA does not contain the nuclear chromosomes or nuclear sex chromosomes and 
 therefore cannot provide the complete nuclear genetic information.
 
