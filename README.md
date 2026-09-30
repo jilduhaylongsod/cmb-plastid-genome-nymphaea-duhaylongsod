@@ -96,6 +96,8 @@ The complete chloroplast genome of _Nymphaea nouchali_ is 159,978 bp long and ha
 
 **Github**: https://github.com/jilduhaylongsod/cmb-plastid-genome-nymphaea-duhaylongsod.git
 
+Zhang, H., Si, Y., Zhao, R., Sheng, Q., & Zhu, Z. (2023). Complete chloroplast genome and phylogenetic relationship of Nymphaea nouchali (Nymphaeaceae), a rare species of water lily in China. Gene, 858, 147139.  https://doi.org/10.1016/j.gene.2023.147139 
+
 ## A short statement explaining how another student could repeat the analysis.
 
 **Another student can repeat this analysis by following the same steps used in this activity:**
