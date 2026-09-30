@@ -53,8 +53,10 @@ The selected genome is the complete chloroplast genome of _Nymphaea nouchali_. I
 
 Common genome: LSC–IR–SSC–IR organization:
 
-- **LSC (Large Single-Copy):** 90,001 bp 
+- **LSC (Large Single-Copy):** 90,001 bp
+- 
 - **SSC (Short Single-Copy):** 19,603 bp
+- 
 - **IR (Inverted Repeat):** 50,374 bp
 
 **The Galaxy results showed that the _Nymphaea nouchali_ genome has 1 sequence record, a GC content of 39.14%, and a total length of 159,978 bp.**
@@ -85,8 +87,12 @@ The complete chloroplast genome of _Nymphaea nouchali_ is 159,978 bp long and ha
 ## Data sources and references
 
 **NCBI nucleotide:** https://www.ncbi.nlm.nih.gov/nuccore/NC_059865.1?report=fasta
+
 **NCBI Genbank:** https://www.ncbi.nlm.nih.gov/nuccore/NC_059865.1?report=genbank
+
 **Use galaxy org:** https://usegalaxy.org/u/jilduhaylongsod/h/plastid-nymphaea-duhaylongsod
+
 **Use galaxy training Network:** https://usegalaxy.org/?tool_id=toolshed.g2.bx.psu.edu%2Frepos%2Fiuc%2Ffasta_stats%2Ffasta-stats%2F2.0&version=latest
-**Github**: 
+
+**Github**: https://github.com/jilduhaylongsod/cmb-plastid-genome-nymphaea-duhaylongsod.git
 
