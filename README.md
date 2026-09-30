@@ -96,3 +96,24 @@ The complete chloroplast genome of _Nymphaea nouchali_ is 159,978 bp long and ha
 
 **Github**: https://github.com/jilduhaylongsod/cmb-plastid-genome-nymphaea-duhaylongsod.git
 
+## A short statement explaining how another student could repeat the analysis.
+
+**Another student can repeat this analysis by following the same steps used in this activity:**
+
+1. Open the NCBI Nucleotide database and search for the complete chloroplast genome of _Nymphaea_ _nouchali_.
+
+2. Select the complete genome record with accession NC_059865.1.
+
+3. Download the genome sequence in FASTA format.
+
+4. Open Galaxy and create a new history for the analysis.
+
+5. Upload the downloaded FASTA file to Galaxy.
+
+6. Run a FASTA Statistics or Sequence Statistics tool.
+
+7. Record the genome length, number of sequence records, and GC content.
+
+8. Check if the complete plastome is represented by one sequence record.
+
+9. Save the Galaxy results and screenshot for documentation in github. 
