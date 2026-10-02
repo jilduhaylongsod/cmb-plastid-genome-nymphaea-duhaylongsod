@@ -10,7 +10,7 @@
 
 **Source of the genome file:** NCBI (https://www.ncbi.nlm.nih.gov/nuccore/NC_059865.1)
 
-**Software used:** OGDRAW 
+**Software used:** OGDRAW (https://chlorobox.mpimp-golm.mpg.de/OGDraw.html)
  For the genome visualization, I used the standard map mode and selected a circular map with the sequence source set to plastid. I used automatic detection for the inverted repeat regions. I also selected the GC content graph, direction of transcription, and full legend. The final genome map was saved as a PNG image. 
 
  <img width="390" height="379" alt="image" src="https://github.com/user-attachments/assets/a09546c0-6724-41f8-ac5c-ad8ffc87527e" />
